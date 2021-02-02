@@ -1,1 +1,2 @@
 And this line I added from my smartphone! This is awesome, but useless.
+And this is second commit.
